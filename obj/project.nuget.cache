@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Txm/Pjo47Yk=",
+  "dgSpecHash": "7Bd/PuC1m3E=",
   "success": true,
   "projectFilePath": "C:\\zun\\Study\\MyProject\\MyProject\\MyProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\FORYOUCOM\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\FORYOUCOM\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

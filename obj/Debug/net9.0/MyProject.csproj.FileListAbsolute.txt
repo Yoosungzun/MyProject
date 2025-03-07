@@ -1,6 +1,5 @@
+C:\zun\Study\MyProject\MyProject\obj\Debug\net9.0\MyProject.csproj.AssemblyReference.cache
 C:\zun\Study\MyProject\MyProject\obj\Debug\net9.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
-C:\zun\Study\MyProject\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfoInputs.cache
-C:\zun\Study\MyProject\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfo.cs
 C:\zun\Study\MyProject\MyProject\obj\Debug\net9.0\MyProject.csproj.CoreCompileInputs.cache
 C:\zun\Study\MyProject\MyProject\obj\Debug\net9.0\MyProject.sourcelink.json
 C:\zun\Study\MyProject\MyProject\bin\Debug\net9.0\MyProject.exe
@@ -8,6 +7,9 @@ C:\zun\Study\MyProject\MyProject\bin\Debug\net9.0\MyProject.deps.json
 C:\zun\Study\MyProject\MyProject\bin\Debug\net9.0\MyProject.runtimeconfig.json
 C:\zun\Study\MyProject\MyProject\bin\Debug\net9.0\MyProject.dll
 C:\zun\Study\MyProject\MyProject\bin\Debug\net9.0\MyProject.pdb
+C:\zun\Study\MyProject\MyProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\zun\Study\MyProject\MyProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\zun\Study\MyProject\MyProject\obj\Debug\net9.0\MyProject.csproj.Up2Date
 C:\zun\Study\MyProject\MyProject\obj\Debug\net9.0\MyProject.dll
 C:\zun\Study\MyProject\MyProject\obj\Debug\net9.0\refint\MyProject.dll
 C:\zun\Study\MyProject\MyProject\obj\Debug\net9.0\MyProject.pdb
